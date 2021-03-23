@@ -1,2 +1,2 @@
 # jessdejesus.github.io
-Researcher website
+Philosopher website
