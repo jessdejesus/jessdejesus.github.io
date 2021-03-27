@@ -56,9 +56,10 @@ main {
     grid-template-areas:
         "margin-left centre margin-right";
     grid-template-columns: auto 1fr auto;
-    justify-items: center;
-    align-items: center;
+    justify-items: flex-start;
+    align-items: stretch;
     background-color: greenyellow;
+    height: 100%;
 }
 
 .margin-left {
