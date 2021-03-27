@@ -1,20 +1,21 @@
   footer {
+    padding: 10px;
     background-color: orangered;
   }
 
-  /* .footer-socialmedia {
+  .footer-socialmedia {
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: space-between;
-      padding: 10px 0;
+      padding-bottom: 10px;
   }
 
-  .footer-socialmedia-links {
+  /* .footer-socialmedia-links {
       padding: 0 0 5px 0;
-  }
+  } */
 
-  .footer-impressum {
+  /* .footer-impressum {
       display: flex;
       align-items: center;
       justify-content: right;
