@@ -13,7 +13,7 @@
       background-color: yellow;
   }
 
-  footer .socialmedia-links {
+  footer nav>* {
       padding: 10px;
       background-color: pink;
   }

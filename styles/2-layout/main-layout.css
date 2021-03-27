@@ -4,6 +4,17 @@ body {
     height: 100%;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+}
+
+canvas {
+    margin: auto;
+}
+
 .wrapper {
     /* Set minimum height to 100% to stick the footer at th bottom */
     min-height: 100%;
