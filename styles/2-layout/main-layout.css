@@ -5,12 +5,14 @@ body {
 }
 
 .wrapper {
+    /* Set minimum height to 100% to stick the footer at th bottom */
     min-height: 100%;
+
     display: grid;
     /* grid-gap: 20px; */
     grid-template-areas:
         "header"
-        "middle"
+        "main"
         "footer";
     grid-template-rows: auto 1fr auto;
     /* width: 100vw; */
@@ -19,13 +21,8 @@ body {
 /* Header */
 
 header {
-    /* display: grid;
-    grid-template-columns: auto 1fr;
-    position: fixed;
-    top: 0;
-    height: 10vh;
-    width: 100%; */
     grid-area: header;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -38,10 +35,11 @@ nav {
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
 }
 
-/* Middle */
+/* Main */
 
-.middle {
-    grid-area: middle;
+main {
+    grid-area: main;
+
     display: grid;
     grid-template-areas:
         "margin-left centre margin-right";

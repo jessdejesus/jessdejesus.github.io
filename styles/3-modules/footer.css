@@ -1,19 +1,22 @@
   footer {
-    padding: 10px;
-    background-color: orangered;
+      padding: 10px;
+      background-color: orangered;
   }
 
-  .footer-socialmedia {
+  footer nav {
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
+      flex-wrap: wrap;
       align-items: center;
-      justify-content: space-between;
-      padding-bottom: 10px;
+      justify-content: space-evenly;
+      padding: 10px;
+      background-color: yellow;
   }
 
-  /* .footer-socialmedia-links {
-      padding: 0 0 5px 0;
-  } */
+  footer .socialmedia-links {
+      padding: 10px;
+      background-color: pink;
+  }
 
   /* .footer-impressum {
       display: flex;
