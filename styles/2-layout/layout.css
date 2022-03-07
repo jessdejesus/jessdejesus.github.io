@@ -60,7 +60,7 @@ main {
     align-items: stretch;
     background-color: greenyellow;
     height: 100%;
-    padding: 1em;
+    padding: 10px;
 }
 
 .margin-left {
