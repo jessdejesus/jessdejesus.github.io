@@ -1,4 +1,5 @@
 @import '1-base/base.css';
 @import '2-layout/layout.css';
 @import '3-modules/menu.css';
+@import '3-modules/content.css';
 @import '3-modules/footer.css';
