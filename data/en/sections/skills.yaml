@@ -11,16 +11,16 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
+- name: Political Philosophy
+  logo: "/images/sections/skills/phi.png"
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  url: "#"
 
-- name: Go Development
-  logo: "/images/sections/skills/go.png"
+- name: Philosophy of Technology
+  logo: "/images/sections/skills/tech2.png"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  url: "#"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Programming
+  logo: "/images/sections/skills/programming.png"
+  summary: "Strong knowledge of the programming language C++ with a focus on high-level modular programming. Working knowledge of Python, JavaScript, and UNIX (e.g. Shell)."
