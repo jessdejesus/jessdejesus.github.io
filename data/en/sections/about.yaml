@@ -32,6 +32,9 @@ socialLinks:
 - name: ResearchGate
   icon: "fab fa-researchgate"
   url: "https://www.researchgate.net/profile/Jess-De-Jesus-De-Pinho-Pinhal-2"
+- name: Academia
+  icon: "fab fa-academia"
+  url: "https://tu-berlin.academia.edu/JessdeJesusdePinhoPinhal"
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/JaessScript"
