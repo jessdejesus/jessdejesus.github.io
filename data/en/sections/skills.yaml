@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Research Skills
+  name: Research
   id: skills
   enable: true
   weight: 2
@@ -21,6 +21,6 @@ skills:
   summary: "I am developing the concept of scalability of computer application as a methodological tool for understanding their normativity."
   url: "#"
 
-- name: Programming
-  logo: "/images/sections/skills/programming.png"
-  summary: "Strong knowledge of the programming language C++ with a focus on high-level modular programming. Working knowledge of Python, JavaScript, and UNIX (e.g. Shell)."
+# - name: Programming
+#   logo: "/images/sections/skills/programming.png"
+#   summary: "Strong knowledge of the programming language C++ with a focus on high-level modular programming. Working knowledge of Python, JavaScript, and UNIX (e.g. Shell)."
