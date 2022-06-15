@@ -23,12 +23,18 @@ summary: 'I am a political philosopher of technology. My background in computer 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/JaessScript"
 - name: Twitter
   icon: "fab fa-twitter"
   url: "https://twitter.com/jess_de_jesus"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/jessdejesus/?locale=en_US"
+- name: ResearchGate
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/Jess-De-Jesus-De-Pinho-Pinhal-2"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/JaessScript"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
