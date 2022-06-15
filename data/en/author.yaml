@@ -3,7 +3,7 @@ name: "Jess de Jesus de Pinho Pinhal"
 nickname: "Jess"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hello, I am"
-image: "images/author/jess.jpg"
+image: "images/author/jess.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "mail@jessdejesus.xyz"
