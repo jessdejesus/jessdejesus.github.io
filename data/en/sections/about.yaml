@@ -33,7 +33,7 @@ socialLinks:
   icon: "fab fa-researchgate"
   url: "https://www.researchgate.net/profile/Jess-De-Jesus-De-Pinho-Pinhal-2"
 - name: Academia
-  icon: "fab fa-university"
+  icon: "fas fa-university"
   url: "https://tu-berlin.academia.edu/JessdeJesusdePinhoPinhal"
 - name: Github
   icon: "fab fa-github"
