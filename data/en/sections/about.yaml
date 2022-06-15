@@ -25,7 +25,10 @@ summary: 'I am a political philosopher of technology. My background in computer 
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/JaessScript"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/jess_de_jesus"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
