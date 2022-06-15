@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Researcher in Philosophy
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Technical University of Berlin
+  url: "https://www.tu.berlin/en/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate philosopher. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a political philosopher of technology. My background in computer science and philosophy allows me to reflect deeply on the new anthropological changes brought by AI and other emerging technologies. I am a founding member of the [Berlin Ethics Lab](https://www.philtech.tu-berlin.de/menue/berlin_ethics_lab/parameter/en/) and of the art collective [Trial & Theresa](http://trialandtheresa.de/). I also give talks, interviews, write and educate. I think critically about technology with the hope to improve their governance, centering intersectionality and global justice.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
