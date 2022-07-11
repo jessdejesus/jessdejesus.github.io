@@ -13,7 +13,7 @@ experiences:
 - company:
     name: Freelancer
     url: "https://www.jessdejesus.xyz"
-    location: Berlin
+    location: Berlin (Germany)
     # company overview
     overview:
   positions:
@@ -29,7 +29,7 @@ experiences:
 - company:
     name: Technical University of Berlin
     url: "https://www.tu.berlin/en/"
-    location: Berlin
+    location: Berlin (Germany)
     # company overview
     overview: The Technical University of Berlin is a public research university located in Berlin, Germany. It was the first German university to adopt the name "Technische Universität".
   positions:
@@ -44,16 +44,16 @@ experiences:
     - Administrative duties (proposal writing, website maintenance)
 
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Push Founders GmbH & Co. KG
+    url: "https://push-founders.com/"
+    location: Berlin (Germany)
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Push! Founders is a Berlin-based company builder and venture capital firm dedicated to bringing creative business ideas to life.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Entrepreneur in Residence
+    start: 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: 2019
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Design and develop XYZ tool for ABC task
