@@ -24,7 +24,7 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Keynote talks about Artificial Intelligence and Machine Learning to investors and C-level executives
-    - My clients include Knowledge Exchange Sessions, The House of Beautiful Business
+    - My clients include [Knowledge Exchange Sessions](https://www.kes.do/), [The House of Beautiful Business](https://houseofbeautifulbusiness.com/)
 
 - company:
     name: Technical University of Berlin
@@ -51,14 +51,14 @@ experiences:
     overview: Push! Founders is a Berlin-based company builder and venture capital firm dedicated to bringing creative business ideas to life.
   positions:
   - designation: Entrepreneur in Residence
-    start: 2018
+    start: Aug 2018
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: 2019
+    end: Feb 2019
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Consultancy for business idea evaluation and strategy of development of Artificial Intelligence and Machine Learning startups
+    - Networking inside the startup and tech scene of Berlin
+    - Public Speaking and Investor Relations
 
 - company:
     name: PreExample Co.
