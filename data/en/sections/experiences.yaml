@@ -61,15 +61,33 @@ experiences:
     - Public Speaking and Investor Relations
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Freelancer
+    url: "https://www.jessdejesus.xyz"
+    location: Berlin (Germany)
+    # company overview
+    overview:
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Consultant in Entrepreneurship and Innovation
+    start: Jul 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Jul 2019
+    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Consultancy for early stage startups in tech
+    - My clients included [Sensefinity](https://www.sensefinity.com/), [Techstars Berlin Accelerator](https://www.techstars.com/accelerators/berlin)
+
+- company:
+    name: Hannover Re
+    url: "https://www.hannover-re.com/"
+    location: Berlin (Germany)
+    overview: Journey Re is a unique international Entrepreneurship Competition hosted by Hannover Re in the (re-)insurance market.
+  positions:
+  - designation: Entrepreneur (participant in Journey Re Competition)
+    start: Jun 2016
+    end: Apr 2017
+    responsibilities:
+    - Researched and applied innovation processes (Design Thinking and Customer Centricity methodologies) to disrupt the insurance industry
+    - Designed a Machine Learning algorithm as proof of concept to digitalise and automate the forecasting, underwriting and claims handling processes
+    - Designed a fully-automated B2B2C platform that generates and monitors insurance policies tailored to individual customer requirements
+    - Wrote a Company profile, a Product description, a Business plan and a Go-to-market strategy, computed financial forecasting models
+    - Pitched and Q\&A with the executive board of Hannover Re, insurance companies and investors; participated in 2 major tech events (TOA 2016, ViZions by Zalando)
