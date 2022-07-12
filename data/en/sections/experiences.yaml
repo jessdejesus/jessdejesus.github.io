@@ -91,3 +91,43 @@ experiences:
     - Designed a fully-automated B2B2C platform that generates and monitors insurance policies tailored to individual customer requirements
     - Wrote a Company profile, a Product description, a Business plan and a Go-to-market strategy, computed financial forecasting models
     - Pitched and Q\&A with the executive board of Hannover Re, insurance companies and investors; participated in 2 major tech events (TOA 2016, ViZions by Zalando)
+
+- company:
+    name: Amadeus
+    url: "https://amadeus.com/en"
+    location: London (UK) and Nice (France)
+    overview: Amadeus solutions connect travelers to the journeys they want, linking them via travel agents, search engines and tour operators to airlines, airports, hotels, cars and railways.
+  positions: Software Engineer
+  - designation: 
+    start: Jan 2013
+    end: Apr 2015
+    responsibilities:
+    - Oversaw the complete redesign of the global User Experience of a revenue management and availability system for the airline industry (Altéa Group Manager) based on \highlight{Big Data} technology
+    - Developed features for Altéa Group Manager and Amadeus Business Intelligence Solutions for Hotels
+    - Designed and developed a baggage handling system embedded in a barcode hand scanner using C\# (now in use at Munich airport)
+    - Coordinated international cross-team collaboration for multiple projects
+    - Ensured overall product quality and provided clients with support and training
+
+# - company:
+#     name: APTTECH Medical Systems
+#     url: "https://amadeus.com/en"
+#     location: London (UK) and Nice (France)
+#     overview: Amadeus solutions connect travelers to the journeys they want, linking them via travel agents, search engines and tour operators to airlines, airports, hotels, cars and railways.
+#   positions: Software Engineer
+#   - designation: 
+#     start: Jan 2013
+#     end: Apr 2015
+#     responsibilities:
+#     - I improved the company communication with a new website as well as a 50-page brochure which was sent to 40+ medical manufacturers.
+
+# - company:
+#     name: Groupe 01
+#     url: "https://amadeus.com/en"
+#     location: London (UK) and Nice (France)
+#     overview: Amadeus solutions connect travelers to the journeys they want, linking them via travel agents, search engines and tour operators to airlines, airports, hotels, cars and railways.
+#   positions: Software Engineer
+#   - designation: 
+#     start: Jan 2013
+#     end: Apr 2015
+#     responsibilities:
+#     - I wrote news stories, analysis and interviews on tech and digitalisation for [Micro Hebdo](https://www.01net.com/statiquesv6/v6_fichespratiquesmh/v6_MH-48.html), [IT for Business](https://www.itforbusiness.fr/) magazines and [BFM TV](https://www.bfmtv.com/) channel.

@@ -21,4 +21,4 @@ achievements:
   summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
 - title: Award Winner
   image: /images/sections/achievements/woman-winner.jpg
-  summary: I won \highlight{3\textsuperscript{rd} prize} with my co-founder Maximilian Eisbach in an international entrepreneurship competition aiming to revolutionise the (re)insurance industry. I designed a new loss forecasting system allowing a complete digitalisation and substantial efficiency gains in the underwriting and claims adjuster business using Machine Learning.
+  summary: I won the 3rd prize with my co-founder [Maximilian Eisbach](https://www.linkedin.com/in/maxgoergner/?originalSubdomain=de) in an international entrepreneurship competition aiming to revolutionise the (re)insurance industry. I designed a new loss forecasting system allowing a complete digitalisation and substantial efficiency gains in the underwriting and claims adjuster business using Machine Learning.
