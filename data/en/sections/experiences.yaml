@@ -17,7 +17,7 @@ experiences:
     # company overview
     overview:
   positions:
-  - designation: Public Speaker, Consultant and Educator
+  - designation: Public Speaker, Advisor and Educator
     start: Nov 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
@@ -110,24 +110,24 @@ experiences:
 
 # - company:
 #     name: APTTECH Medical Systems
-#     url: "https://amadeus.com/en"
-#     location: London (UK) and Nice (France)
-#     overview: Amadeus solutions connect travelers to the journeys they want, linking them via travel agents, search engines and tour operators to airlines, airports, hotels, cars and railways.
-#   positions: Software Engineer
+#     url: "http://anphuc.com.vn/"
+#     location: Ho Chi Minh City (Vietnam)
+#     overview: An Phuc Trading & Technology Co., Ltd  (APTTech) is a trader of medical equipment from all over the world.
+#   positions: Public Relations Intern
 #   - designation: 
-#     start: Jan 2013
-#     end: Apr 2015
+#     start: Jun 2011
+#     end: Sep 2011
 #     responsibilities:
 #     - I improved the company communication with a new website as well as a 50-page brochure which was sent to 40+ medical manufacturers.
 
-# - company:
-#     name: Groupe 01
-#     url: "https://amadeus.com/en"
-#     location: London (UK) and Nice (France)
-#     overview: Amadeus solutions connect travelers to the journeys they want, linking them via travel agents, search engines and tour operators to airlines, airports, hotels, cars and railways.
-#   positions: Software Engineer
-#   - designation: 
-#     start: Jan 2013
-#     end: Apr 2015
-#     responsibilities:
-#     - I wrote news stories, analysis and interviews on tech and digitalisation for [Micro Hebdo](https://www.01net.com/statiquesv6/v6_fichespratiquesmh/v6_MH-48.html), [IT for Business](https://www.itforbusiness.fr/) magazines and [BFM TV](https://www.bfmtv.com/) channel.
+- company:
+    name: Groupe 01
+    url: "https://www.01net.com/"
+    location: Paris (France)
+    overview: Amadeus solutions connect travelers to the journeys they want, linking them via travel agents, search engines and tour operators to airlines, airports, hotels, cars and railways.
+  positions: Journalist
+  - designation: 
+    start: Jul 2010
+    end: Aug 2010
+    responsibilities:
+    - I wrote news stories, analysis and interviews on tech and digitalisation for [Micro Hebdo](https://www.01net.com/statiquesv6/v6_fichespratiquesmh/v6_MH-48.html), [IT for Business](https://www.itforbusiness.fr/) magazines and [BFM TV](https://www.bfmtv.com/) channel
