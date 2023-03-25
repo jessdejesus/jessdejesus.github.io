@@ -97,8 +97,8 @@ experiences:
     url: "https://amadeus.com/en"
     location: London (UK) and Nice (France)
     overview: Amadeus solutions connect travelers to the journeys they want, linking them via travel agents, search engines and tour operators to airlines, airports, hotels, cars and railways.
-  positions: Software Engineer
-  - designation: 
+  positions:
+  - designation: Software Engineer
     start: Jan 2013
     end: Apr 2015
     responsibilities:
@@ -125,8 +125,8 @@ experiences:
     url: "https://www.01net.com/"
     location: Paris (France)
     overview: Amadeus solutions connect travelers to the journeys they want, linking them via travel agents, search engines and tour operators to airlines, airports, hotels, cars and railways.
-  positions: Journalist
-  - designation: 
+  positions:
+  - designation: Journalist
     start: Jul 2010
     end: Aug 2010
     responsibilities:
