@@ -1,0 +1,6 @@
+.home .greeting, .home .greeting-subtitle {
+    width: fit-content;
+    margin: auto;
+    color: black;
+    background-color: rgb(211,211,211,0.3);
+}
